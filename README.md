@@ -3,9 +3,6 @@
 ## Drag and drop website builder javascript library.
 Built with jQuery and Bootstrap 4.
 
-[Live Demo](http://www.vvveb.com/vvvebjs/editor.html)  using [Land.io](http://tatygrassini.github.io/landio-html/) and Bootstrap 4 components.
-
-<img src="http://www.vvveb.com/vvvebjs/screenshot.png?v=1">
 
 By default the editor comes with Bootstrap 4 and Widgets components and can be extended with any kind of components and inputs.
 
@@ -44,14 +41,6 @@ $(document).ready(function()
 For editor html and components/input javascript templates check editor.html
 
 For css changes edit scss/editor.scss and scss/_builder.scss
-
-## Documentation
-
-For documentation check the [wiki](https://github.com/givanz/VvvebJs/wiki)
-
-## Support
-
-If you like the project you can support it with a [PayPal donation](https://paypal.me/zgivan)
 
 
 ## License
