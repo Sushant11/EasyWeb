@@ -2,19 +2,16 @@
   "name": "vvvebjs",
   "description": "Drag and drop website builder javascript library",
   "version": "0.0.1",
-  "author": "Ziadin Givan",
+  "author": "Sushant Chitrakar",
   "license": "Apache-2.0",
-  "homepage": "http://www.vvveb.com/vvvebjs/editor.html",
   "main": "libs/builder/builder.js",
   "repository": {
-    "type": "git",
-    "url": "https://github.com/givanz/VvvebJs.git"
+    "type": "git"
   },
   "dependencies": {
     "jquery": "^3.0"
   },
   "keywords": [
-    "vvvebjs",
     "drag-drop",
     "drag&drop",
     "drag",

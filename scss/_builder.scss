@@ -400,7 +400,7 @@ body
 	#highlight-box
 	{
 		position:absolute;
-		border:1px solid #4285f4;
+		border:1px solid #1cb78d;
 		width:0px;
 		height:0px;
 		top:0px;
@@ -417,7 +417,7 @@ body
 	#select-box
 	{
 		position:absolute;
-		border:1px solid #4285f4;
+		border:1px solid #1cb78d;
 		background:rgba(66, 133, 244, 0.1);
 		width:0px;
 		height:0px;
@@ -581,7 +581,7 @@ li[data-type]
 				> a 
 				{
 				  padding-left: 1rem;
-				  color: #007bff;
+				  color: #1cb78d;
 				}
 			   
 			}
@@ -659,7 +659,7 @@ label.header
 	text-align: left;
 	padding-left: 0.3rem;
 	border-top: 1px solid #eee;
-	color: #007bff;
+	color: #1cb78d;
 	cursor:pointer;
 	position:relative;
 
